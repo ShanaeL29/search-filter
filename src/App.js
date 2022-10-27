@@ -1,4 +1,5 @@
 import React from "react";
+import "./App.css";
 import dummyData from "./MOCK_DATA.json";
 
 function App() {
